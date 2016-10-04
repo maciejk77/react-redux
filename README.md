@@ -1,25 +1,20 @@
-# ReduxSimpleStarter
+# React and Redux
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+The purpose of this exercise is to create **React** and *Redux* BookList app coming from an array of data 'reducer' and applying active state activeBook as well. 
 
-###Getting Started###
+##Key learnings
 
-There are two methods for getting started with this repo.
+- React/Redux relationship
+- Reducers
+- onClick property
+- mapStateToProps and mapDispatchToProps
+- connect method from react-redux to tie up state and component to create container with state
 
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
+####Preview
 
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
+To be added
 
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
-```
-	> npm install
-	> npm start
-```
+
+
+
